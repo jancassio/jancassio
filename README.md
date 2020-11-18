@@ -1,17 +1,8 @@
 <img alt="Jan" src="https://raw.githubusercontent.com/jancassio/jancassio/master/rsc/jan-logo.svg" />
 
-### Hello,
+### Jan, a Brazilian experienced developer who loves create beautiful, simple and buttery-smooth user interfaces.
 
-|                                 I'm | ﹣  |
-| ----------------------------------: | --- |
-|                      from São Paulo. | 🇧🇷  |
-|                  living in Montreal. | 🇨🇦  |
-|                      a books reader. | 📚  |
-| lover of 70's, 80's and 90's movies. | 📽   |
-|             attached to digital art. | 🖼   |
-|            a photography apprentice. | 📷  |
-|       fond of to cooking and eating. | 🍕  |
-|                   crazy about music. | 🎸  |
+---
 
 [![jancassio's github stats](https://github-readme-stats.vercel.app/api?username=jancassio&count_private=true&show_icons=true&theme=graywhite)](https://github.com/jancassio/github-readme-stats)
 
